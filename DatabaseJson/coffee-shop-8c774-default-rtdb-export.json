@@ -1,0 +1,96 @@
+{
+  "Banner": [
+    {
+      "url": "https://example.com/pizza-banner.jpg"
+    }
+  ],
+  "Category": [
+    { "id": 0, "title": "Margherita" },
+    { "id": 1, "title": "Pepperoni" },
+    { "id": 2, "title": "Veggie" },
+    { "id": 3, "title": "BBQ Chicken" },
+    { "id": 4, "title": "Cheese Burst" }
+  ],
+  "Items": [
+    {
+      "categoryId": "0",
+      "description": "Classic Margherita pizza with fresh tomatoes, mozzarella, and basil.",
+      "extra": "Tomatoes, mozzarella, basil, olive oil",
+      "picUrl": ["https://example.com/margherita.jpg"],
+      "price": 5.5,
+      "rating": 4.7,
+      "title": "Classic Margherita"
+    },
+    {
+      "categoryId": "0",
+      "description": "A twist on the classic Margherita with extra cheese and herbs.",
+      "extra": "Tomatoes, mozzarella, extra cheese, oregano",
+      "picUrl": ["https://example.com/margherita-extra.jpg"],
+      "price": 6.5,
+      "rating": 4.8,
+      "title": "Cheesy Margherita"
+    },
+    {
+      "categoryId": "1",
+      "description": "Pepperoni pizza loaded with spicy pepperoni slices and mozzarella.",
+      "extra": "Pepperoni, mozzarella, tomato sauce",
+      "picUrl": ["https://example.com/pepperoni.jpg"],
+      "price": 7.5,
+      "rating": 4.9,
+      "title": "Classic Pepperoni"
+    },
+    {
+      "categoryId": "2",
+      "description": "Loaded veggie pizza with bell peppers, onions, olives, and mushrooms.",
+      "extra": "Bell peppers, onions, olives, mushrooms, mozzarella",
+      "picUrl": ["https://example.com/veggie.jpg"],
+      "price": 6.9,
+      "rating": 4.6,
+      "title": "Veggie Delight"
+    },
+    {
+      "categoryId": "3",
+      "description": "BBQ Chicken pizza with tangy BBQ sauce and juicy chicken chunks.",
+      "extra": "Chicken, BBQ sauce, mozzarella, onions",
+      "picUrl": ["https://example.com/bbq-chicken.jpg"],
+      "price": 8.5,
+      "rating": 4.8,
+      "title": "BBQ Chicken"
+    },
+    {
+      "categoryId": "4",
+      "description": "Extra cheesy pizza with double cheese inside and outside.",
+      "extra": "Double mozzarella, cheddar cheese, tomato sauce",
+      "picUrl": ["https://example.com/cheese-burst.jpg"],
+      "price": 9.5,
+      "rating": 4.9,
+      "title": "Cheese Burst Pizza"
+    }
+  ],
+  "Popular": [
+    {
+      "description": "Classic Pepperoni pizza with spicy slices and mozzarella.",
+      "extra": "Pepperoni, mozzarella, tomato sauce",
+      "picUrl": ["https://example.com/pepperoni.jpg"],
+      "price": 7.5,
+      "rating": 4.9,
+      "title": "Classic Pepperoni"
+    },
+    {
+      "description": "BBQ Chicken pizza with juicy chicken and tangy BBQ sauce.",
+      "extra": "Chicken, BBQ sauce, mozzarella",
+      "picUrl": ["https://example.com/bbq-chicken.jpg"],
+      "price": 8.5,
+      "rating": 4.8,
+      "title": "BBQ Chicken"
+    },
+    {
+      "description": "Extra cheesy pizza with double mozzarella and cheddar.",
+      "extra": "Double mozzarella, cheddar cheese",
+      "picUrl": ["https://example.com/cheese-burst.jpg"],
+      "price": 9.5,
+      "rating": 4.9,
+      "title": "Cheese Burst Pizza"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:textColor="@color/white"
+    android:text="@string/title"
+    android:layout_height="45dp"
+    android:padding="12dp"
+    android:textSize="16sp"
+    android:textStyle="bold"
+    android:layout_marginTop="32dp"
+    android:layout_marginBottom="16dp"
+    android:layout_marginHorizontal="8dp"
+    android:textAlignment="center"
+    android:id="@+id/titleCat">
+
+</TextView>

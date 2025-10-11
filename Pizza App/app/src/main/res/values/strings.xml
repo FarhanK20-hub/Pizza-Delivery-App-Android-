@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">pizza_app</string>
+    <string name="no_cap_pie">No Cap Pie</string>
+    <string name="explore">Explore</string>
+    <string name="tina_anderson">Tina Anderson</string>
+    <string name="search_anything">Search Anything...</string>
+    <string name="popular_pizzas">Popular Pizzas</string>
+    <string name="category">Category</string>
+    <string name="see_all">See all</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="my_order">My order</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="enter_your_discout_code">Enter Your Discout Code</string>
+    <string name="apply">Apply</string>
+    <string name="back">Back</string>
+    <string name="enter_your_coupon_code">Enter your coupon code</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Delivery</string>
+    <string name="total_tax">Total Tax</string>
+    <string name="total">Total</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+    <string name="ana_de_aamras">Ana de Aamras</string>
+    <string name="status_delivered">Status: Delivered</string>
+    <string name="no_previous_orders_found">No previous orders found 😔</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="log_out">Log Out</string>
+    <string name="order_history">Order History</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="app_settings">App Settings</string>
+    <string name="title">title</string>
+
+    <style name="RoundedCorner50ImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+</resources>
