@@ -27,10 +27,10 @@ Built with **RecyclerView**, **Glide**, and **Data Binding**, this app offers a 
 - **Architecture:** MVC pattern  
 
 ---
-<img width="1080" height="2424" alt="Screenshot_20251011_121234" src="https://github.com/user-attachments/assets/6924d0e6-da47-49e2-a88f-c7a3dbcfa79d" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121222" src="https://github.com/user-attachments/assets/7598604c-9174-43c7-a55f-c05b3a43a35c" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121210" src="https://github.com/user-attachments/assets/b40cdb3d-3e77-43e8-9d5f-4ad830d2a6e5" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121151" src="https://github.com/user-attachments/assets/dc5b5a00-1f41-420b-986d-59e3612b535c" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121132" src="https://github.com/user-attachments/assets/350addf2-910c-4ebd-8274-3a66319f4337" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121115" src="https://github.com/user-attachments/assets/ba4b35a3-8284-4663-9cd9-00e41d684cbc" />
-<img width="1080" height="2424" alt="Screenshot_20251011_121057" src="https://github.com/user-attachments/assets/9f980f34-bba1-444e-abc7-c9bc9631a05b" />
+
+<img width="1080" height="2424" alt="Splash" src="https://github.com/user-attachments/assets/301dff49-8fea-4927-96f7-079baeca381a" />
+<img width="1080" height="2424" alt="Home" src="https://github.com/user-attachments/assets/1f45decd-5826-443f-af02-127ee413a7ff" />
+<img width="1080" height="2424" alt="Category" src="https://github.com/user-attachments/assets/c8db0d55-3c1e-41f2-b4d4-fd676d5db38e" />
+<img width="1080" height="2424" alt="Details" src="https://github.com/user-attachments/assets/b951c3e9-f4dc-4fdf-8cbb-c17195be881b" />
+<img width="1080" height="2424" alt="Cart" src="https://github.com/user-attachments/assets/45a047d7-d413-42b0-ba16-7de2092780e7" />
+<img width="1080" height="2424" alt="Orders" src="https://github.com/user-attachments/assets/b8599990-be95-4790-be27-a5d53004aed7" />
