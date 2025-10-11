@@ -22,7 +22,8 @@ Built with **RecyclerView**, **Glide**, and **Data Binding**, this app offers a 
 - **Framework:** Android SDK  
 - **UI Components:** RecyclerView, ConstraintLayout, Data Binding  
 - **Image Loading:** Glide  
-- **Local Storage:** TinyDB  
+- **Local Storage:** TinyDB
+- **Database:** Firebase
 - **Architecture:** MVC pattern  
 
 ---
